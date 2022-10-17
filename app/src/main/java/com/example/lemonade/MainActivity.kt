@@ -165,7 +165,7 @@ class MainActivity : AppCompatActivity() {
                 lemonImage?.setImageResource(R.drawable.lemon_restart)
             }
         }
-        // TODO: set up a conditional that tracks the lemonadeState
+        //TODO: set up a conditional that tracks the lemonadeState
 
         // TODO: for each state, the textAction TextView should be set to the corresponding string from
         //  the string resources file. The strings are named to match the state
